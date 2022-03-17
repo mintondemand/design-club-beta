@@ -1,0 +1,20 @@
+{
+    "token_id": 8072,
+    "name": "White Skull Hoodie",
+    "description": "White tracksuit with skull graphic",
+    "external_url": "https://unlock.getmod.art/",
+    "image": "https://github.com/mintondemand/design-club-beta/raw/main/wearables/Images/Roblox-NFTs-March/white%20skull%20hoodie.png",
+    "animation_url": null,
+    "item_category": "Outfit",
+    "item_compatibility": "Roblox",
+    "attributes": [
+        {
+            "trait_type": "Item Category",
+            "value": "Outfit"
+        },
+        {
+            "trait_type": "Compatibility",
+            "value": "Roblox"
+        }
+    ]
+}

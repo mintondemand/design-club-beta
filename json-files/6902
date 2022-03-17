@@ -1,0 +1,20 @@
+{
+    "token_id": 6902,
+    "name": "Red full sleeve chain",
+    "description": "Red baggy outfit and gold chain with dollar symbol",
+    "external_url": "https://unlock.getmod.art/",
+    "image": "https://github.com/mintondemand/design-club-beta/raw/main/wearables/Images/Roblox-NFTs-March/red%20full%20sleeve%20chain.png",
+    "animation_url": null,
+    "item_category": "outfit",
+    "item_compatibility": "Roblox",
+    "attributes": [
+        {
+            "trait_type": "Item Category",
+            "value": "outfit"
+        },
+        {
+            "trait_type": "Compatibility",
+            "value": "Roblox"
+        }
+    ]
+}

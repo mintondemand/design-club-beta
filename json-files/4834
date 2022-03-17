@@ -1,0 +1,20 @@
+{
+    "token_id": 4834,
+    "name": "Greyblue suit",
+    "description": "Navy pintstriped tuxedo with black bow tie and red rose",
+    "external_url": "https://unlock.getmod.art/",
+    "image": "https://github.com/mintondemand/design-club-beta/raw/main/wearables/Images/Roblox-NFTs-March/greyblue%20suit.png",
+    "animation_url": null,
+    "item_category": "Outfit",
+    "item_compatibility": "Roblox",
+    "attributes": [
+        {
+            "trait_type": "Item Category",
+            "value": "Outfit"
+        },
+        {
+            "trait_type": "Compatibility",
+            "value": "Roblox"
+        }
+    ]
+}
